@@ -1,6 +1,14 @@
 # Marketing-Courses
 
-Marketing-Courses
+Marketing-Courses:
+
+Website:
+
+https://pitchbox.com/
+
+https://www.helpareporter.com/
+
+https://www.entrepreneur.com/article/284175
 
 # Marketing-Courses
 

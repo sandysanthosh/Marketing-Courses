@@ -4,6 +4,10 @@ Marketing-Courses:
 
 Website:
 
+https://merchants.google.com/
+
+https://search.google.com/search-console
+
 https://pitchbox.com/
 
 https://www.helpareporter.com/

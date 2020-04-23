@@ -4,9 +4,22 @@ Marketing-Courses:
 
 Website:
 
+google Product:
+
 https://merchants.google.com/
 
+Index google search:
+
 https://search.google.com/search-console
+
+
+website google page speed:
+
+https://developers.google.com/speed/pagespeed/insights/?url=starwalt.in&tab=mobile&hl=en_GB
+
+Yoast Plugin SEO:
+
+https://yoast.com/
 
 https://pitchbox.com/
 

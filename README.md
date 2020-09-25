@@ -6,6 +6,24 @@ Website:
 
 Google My Business Page
 
+Google Adwords
+
+Content Marketing
+
+Organic Social Media Marketing
+
+Coupion Deal Sites
+
+Email Marketing
+
+Facebook Advertesing
+
+Youtube Video Marketing
+
+Contents and giveaways
+
+Business Blog
+
 google Product:
 
 https://merchants.google.com/
